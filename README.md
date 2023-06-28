@@ -1,8 +1,6 @@
 <div align="center" width="300">
    <h1 align="center">¡Hola Mundo👋! Soy Miguel Gómez 👨🏼‍💻</h1>
-   <a  href="https://www.linkedin.com/in/miguel-angel-gomez-sanchez-b467bb215" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:ingmiguelangelgosan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white
-" alt="Gmail"></a> <a href="https://t.me/IngMiguelAngelGomez" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white
-" alt="Telegram"></a>
+   <a  href="https://www.linkedin.com/in/miguel-angel-gomez-sanchez-b467bb215" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:ingmiguelangelgosan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://t.me/IngMiguelAngelGomez" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 </div>
 </br>
 
