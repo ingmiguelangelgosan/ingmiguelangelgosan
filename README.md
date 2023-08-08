@@ -10,7 +10,7 @@
 
 - 🤓 Soy estudiante de séptimo semestre del pregrado de ingeniería de sistemas y computación en la Universidad de Caldas.
 - 🧠 Actualmente estoy aprendiendo .NET con C#.
-- 🤔 Mis intereses son la Ciberseguridad, Inteligencia Artificial y Computación en la Nube.
+- 🤔 Mis intereses son la Ciberseguridad y Computación en la Nube.
 </br>
 </br>
 
